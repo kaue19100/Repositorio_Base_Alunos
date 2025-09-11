@@ -1,0 +1,11 @@
+print('_____________________________________')
+print('cadastro')
+print('______________________________________')
+
+nome = input('qual é o seu nome ?')
+gmail = input(f'beleza {nome} agora me fale seu gmail.')
+escola = input(f'perfeito {nome} em qual escola você estuda ?')
+print('_______________________________________')
+print(f'nome: {nome}')
+print(f'gmail: {gmail}')
+print(f'escola: {escola}')
