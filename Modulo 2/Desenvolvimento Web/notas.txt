@@ -1,0 +1,4 @@
+Menphis, 9.80
+Garro, 5.60
+Carrijo, 8.00
+Daniel, 6.80 
